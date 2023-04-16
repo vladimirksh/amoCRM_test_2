@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amoCRM_test_2/static/css/main.86408565.css",
-    "main.js": "/amoCRM_test_2/static/js/main.1e2bca16.js",
+    "main.js": "/amoCRM_test_2/static/js/main.b725faba.js",
     "static/js/787.fa091e9f.chunk.js": "/amoCRM_test_2/static/js/787.fa091e9f.chunk.js",
     "static/media/Inter-Bold.svg": "/amoCRM_test_2/static/media/Inter-Bold.b975a268ddb6c0e23eb8.svg",
     "static/media/Inter-Medium.svg": "/amoCRM_test_2/static/media/Inter-Medium.07a11a2de02818fffb99.svg",
@@ -40,11 +40,11 @@
     "index.html": "/amoCRM_test_2/index.html",
     "static/media/telegram.svg": "/amoCRM_test_2/static/media/telegram.40ecd015eebebbe71b5bd0354d54208e.svg",
     "main.86408565.css.map": "/amoCRM_test_2/static/css/main.86408565.css.map",
-    "main.1e2bca16.js.map": "/amoCRM_test_2/static/js/main.1e2bca16.js.map",
+    "main.b725faba.js.map": "/amoCRM_test_2/static/js/main.b725faba.js.map",
     "787.fa091e9f.chunk.js.map": "/amoCRM_test_2/static/js/787.fa091e9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86408565.css",
-    "static/js/main.1e2bca16.js"
+    "static/js/main.b725faba.js"
   ]
 }
