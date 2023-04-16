@@ -1,5 +1,4 @@
 import React from "react";
-import { Routes, Route } from "react-router-dom";
 import Navigation from "../Navigation/Navigation";
 import Main from "../../pages/Main";
 import Footer from "../Footer/Footer";
@@ -8,9 +7,7 @@ function App() {
   return (
     <div className="App">
       <Navigation />
-      <Routes>
-        <Route path="/" element={<Main />} />
-      </Routes>
+      <Main />
       <Footer />
       <div className="puple-ball"></div>
       <div className="red-ball"></div>
